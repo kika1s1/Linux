@@ -1,0 +1,2 @@
+# Bash Scripts Collection
+A curated set of Bash scripts designed to automate routine tasks and enhance productivity in Unix-like environments. This repository serves as a resource for both beginners and experienced users seeking to streamline their workflows.
